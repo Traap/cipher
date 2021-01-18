@@ -3,3 +3,6 @@ _build/
 coverage/
 Gemfile.lock
 pkg/
+aes-256-cbc.yaml
+*.dec
+*.enc
